@@ -1,0 +1,76 @@
+{
+    "response_code":0,
+      "results":
+        [
+          {
+            "category":"Science & Nature",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"On the Beaufort Scale of wind force, what wind name is given to number 8?",
+            "correct_answer":"Gale",
+            "incorrect_answers":["Storm","Hurricane","Breeze"]},
+          {
+            "category":"Science & Nature",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"What is isobutylphenylpropanoic acid more commonly known as?",
+            "correct_answer":"Ibuprofen",
+            "incorrect_answers":["Morphine","Ketamine","Aspirin"]},
+          {
+            "category":"Science & Nature",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"Which is not a type of neuron?",
+            "correct_answer":"Perceptual Neuron",
+            "incorrect_answers":["Sensory Neuron","Motor Neuron","Interneuron"]},
+          {
+            "category":"Science & Nature",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"Botanically speaking, which of these fruits is NOT a berry?",
+            "correct_answer":"Strawberry",
+            "incorrect_answers":["Blueberry","Banana","Concord Grape"]},
+          {
+            "category":"Science & Nature",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"How many protons are in an oxygen atom?",
+            "correct_answer":"Eight",
+            "incorrect_answers":["Four","Two","Six"]},
+          {
+            "category":"Science & Nature",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"What was the first organic compound to be synthesized from inorganic compounds?",
+            "correct_answer":"Urea",
+            "incorrect_answers":["Propane","Ethanol","Formaldehyde"]},
+          {
+            "category":"Science & Nature",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"What is the name for the auditory illusion of a note that seems to be rising infinitely?",
+            "correct_answer":"Shepard Tone",
+            "incorrect_answers":["Glissandro Illusion","Fransen Effect","McGurck Effect"]},
+          {
+            "category":"Science & Nature",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"What is the most potent toxin known?",
+            "correct_answer":"Botulinum toxin",
+            "incorrect_answers":["Ricin","Cyanide","Asbestos"]},
+          {
+            "category":"Science & Nature",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"What causes the sound of a heartbeat?",
+            "correct_answer":"Closure of the heart valves",
+            "incorrect_answers":["Contraction of the heart chambers","Blood exiting the heart","Relaxation of the heart chambers"]},
+          {
+            "category":"Science & Nature",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"How many types of quarks are there in the standard model of physics?",
+            "correct_answer":"6",
+            "incorrect_answers":["2","3","4"]}
+        ]
+  }
