@@ -9,10 +9,10 @@ function App() {
   }
   
   return quizStart === false ? (
-    <div>
-      <button onClick={start}>
-        Start
-      </button>
+    <div className='container '>
+      
+      <h1  className=' bg-white text-purple-700 p-10 rounded-lg shadow' onClick={start}>Hello, Welcome to Quiz App. Please click here to start.</h1>
+      
     </div>
   ) :
   (
